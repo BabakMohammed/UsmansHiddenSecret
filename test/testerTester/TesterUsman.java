@@ -21,6 +21,9 @@ public class TesterUsman {
         System.out.println("Usman is een faggggggg");
         System.out.println("Usman is een nsber");
         
+        System.out.println("double fuggot");
+        System.out.println("double fuggot fag");
+
     }
     
 }
