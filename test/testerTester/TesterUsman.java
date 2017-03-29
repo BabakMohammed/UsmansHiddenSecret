@@ -17,6 +17,10 @@ public class TesterUsman {
     public TesterUsman() {
         
         System.out.println("Usman is een faggggggg");
+        
+        System.out.println("Usman is een faggggggg");
+        System.out.println("Usman is een nsber");
+        
     }
     
 }
